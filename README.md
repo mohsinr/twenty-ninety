@@ -12,6 +12,10 @@ If you want to start by working on your machine, first clone the repo:
 
     $ git clone https://github.com/seancdavis/twenty-ninety.git your-project-name
 
+Move to your project directory:
+
+    $ cd your-project-name
+    
 Install dependencies:
 
     $ yarn install
